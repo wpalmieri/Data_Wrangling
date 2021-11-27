@@ -1,4 +1,6 @@
-# vers„o 1
-#Vers„o 2
+# vers√£o 1
+#Vers√£o 2
 
 library (tidyverse )
+# V2
+Fazendo testes do Pull
